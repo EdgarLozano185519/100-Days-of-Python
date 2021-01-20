@@ -1,10 +1,8 @@
 # #100DaysOfCode Log - Round 1 - Edgar Lozano
 
-The log of my #100DaysOfCode challenge. Started on [January 19, Tuesday, 2021].
+The log of my #100DaysOfCode challenge. Started on January 19, Tuesday, 2021.
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+### R1D1
+Worked on a program that generates a cool band name. [View readme.](projects-source/day1-band-name-generator/readme.md)
