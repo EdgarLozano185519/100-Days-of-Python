@@ -1,0 +1,2 @@
+### What Is It?
+This is a simple password generator. This program will ask you to enter  how many letters, numbers, and symbols your password should contain. Then at the end, it will generate a password for you. This is not to be used in actual real-world situations, but if you want to play around with the passwords it generates, feel free to do so.
