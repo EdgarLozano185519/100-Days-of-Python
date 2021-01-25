@@ -24,3 +24,9 @@ And I worked on a coin-toss program to test my use of the random library. [View 
 Today was fun. I worked on a simple password generator! [View readme.](projects-source/day5/simple-password-generator/readme.md)
 
 I also worked on a tool to tell you which is the high score in a list of scores.
+### R1D6
+First program was written to add even numbers between 1 and 100. Nice little program to practice my math with Python.
+
+Second program I wrote was the Fizz Buzz program to practice order of conditionals.
+
+Final program I wrote today was a Hangman application! That was fun. [View readme.](projects-source/day6/hangman/readme.md)
