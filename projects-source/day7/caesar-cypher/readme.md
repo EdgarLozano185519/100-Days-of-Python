@@ -1,0 +1,2 @@
+### What Is It?
+This Caesar Cypher program will encrypt and decrypt any word using the simple algorithm. At the moment, it is only a function whose arguments can be modified to provide a desired shift value and direction. "encrypt" will codify the word, and "decrypt" will give you back the original text.

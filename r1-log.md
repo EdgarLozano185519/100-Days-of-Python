@@ -30,3 +30,5 @@ First program was written to add even numbers between 1 and 100. Nice little pro
 Second program I wrote was the Fizz Buzz program to practice order of conditionals.
 
 Final program I wrote today was a Hangman application! That was fun. [View readme.](projects-source/day6/hangman/readme.md)
+### R1D7
+Today I wrote a Caesar Cypher program that will encrypt and decrypt a word using any shift value. [View readme.](projects-source/day7/caesar-cypher/readme.md)
