@@ -32,3 +32,7 @@ Second program I wrote was the Fizz Buzz program to practice order of conditiona
 Final program I wrote today was a Hangman application! That was fun. [View readme.](projects-source/day6/hangman/readme.md)
 ### R1D7
 Today I wrote a Caesar Cypher program that will encrypt and decrypt a word using any shift value. [View readme.](projects-source/day7/caesar-cypher/readme.md)
+### R1D8
+Today I wrote a silent auction program to display highest bidder. [View readme.](projects-source/day8/silent-auction/readme.md)
+
+I also wrote a small program to tell you if a number is a prime number.
