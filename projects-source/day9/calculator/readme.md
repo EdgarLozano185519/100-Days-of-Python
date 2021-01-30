@@ -1,0 +1,2 @@
+### What Is It?
+This is a very simple calculator that steps through writing an equation that will generate a result. After getting the result, you then have the option to use the result for another calculation.
