@@ -1,0 +1,2 @@
+### What Is It?
+This was a fun game to write. This is a version of the popular Black Jack game! The aim is simple, try to get 21 with the cards you draw before going over. Also, the dealer also cannot get 21 points. Are you up for the challenge?
