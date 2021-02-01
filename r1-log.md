@@ -42,3 +42,5 @@ I wrote a simple four-operation calculator. [View readme.](projects-source/day9/
 I also wrote a fun little game called Treasure Island. Feel free to clone and run the game to see how fun it is!
 ### R1D10
 Today I wrote a version of the Black Jack game! So fun. I was able to apply loops, functions, and using the random library. [View readme.](projects-source/day10/black-jack/readme.md)
+### R1D11
+Today was a fun guessing game! I practiced more loops and variable scope. [View readme.](projects-source/day11/guessing-game/readme.md)
