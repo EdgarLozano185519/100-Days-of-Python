@@ -44,3 +44,11 @@ I also wrote a fun little game called Treasure Island. Feel free to clone and ru
 Today I wrote a version of the Black Jack game! So fun. I was able to apply loops, functions, and using the random library. [View readme.](projects-source/day10/black-jack/readme.md)
 ### R1D11
 Today was a fun guessing game! I practiced more loops and variable scope. [View readme.](projects-source/day11/guessing-game/readme.md)
+### R1D12
+Today I started on a complex project. I started to develop the beginning stages of a markdown to HTML converter.
+
+This will give me an opportunity to work with file manipulation libraries, regular expressions, and more intermediate concepts. I will return to this from time to time as it may be useful in creating blog posts for a website I run.
+
+Today, I finished working on a function that is supposed to detect when headings are found and convert them from markdown to HTML string. I also started on a function to tell whether a string contains a potential link.
+
+I am resuming the main curriculum I've been following starting tomorrow.
