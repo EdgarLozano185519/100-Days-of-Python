@@ -52,3 +52,5 @@ This will give me an opportunity to work with file manipulation libraries, regul
 Today, I finished working on a function that is supposed to detect when headings are found and convert them from markdown to HTML string. I also started on a function to tell whether a string contains a potential link.
 
 I am resuming the main curriculum I've been following starting tomorrow.
+### R1D13
+Today I worked on a fun game that allows a player to guess which of two social media accounts might have more followers. [View readme.](projects-source/day13/readme.md)
