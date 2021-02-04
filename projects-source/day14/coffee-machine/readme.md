@@ -1,0 +1,2 @@
+### What Is It?
+This is a coffee machine simulation. Feel free to get coffee, and see how much the machine can give you! This program assumes you, the user, has an infinite amount of money to spend on great coffee.

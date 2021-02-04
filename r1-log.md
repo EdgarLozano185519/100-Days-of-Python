@@ -53,4 +53,6 @@ Today, I finished working on a function that is supposed to detect when headings
 
 I am resuming the main curriculum I've been following starting tomorrow.
 ### R1D13
-Today I worked on a fun game that allows a player to guess which of two social media accounts might have more followers. [View readme.](projects-source/day13/readme.md)
+Today I worked on a fun game that allows a player to guess which of two social media accounts might have more followers. [View readme.](projects-source/day13/higher-lower/readme.md)
+### R1D14
+Today I worked on a fun virtual coffee machine. It was pretty fun getting to see how I could make it without using functions. [View readme.](projects-source/day14/coffee-machine/readme.md)
