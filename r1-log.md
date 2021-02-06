@@ -58,3 +58,5 @@ Today I worked on a fun game that allows a player to guess which of two social m
 Today I worked on a fun virtual coffee machine. It was pretty fun getting to see how I could make it without using functions. [View readme.](projects-source/day14/coffee-machine/readme.md)
 ### R1D15
 Today, I did the exact same project as yesterday. The only difference is that I used Object Oriented Programming to deliver the awesome coffee to you. [View readme.](projects-source/day15/oop-coffee-machine/readme.md)
+### R1D16
+Today I wrote a quiz game in Python. I used OOP concepts to design a question class, and a quizzer class. [View readme.](projects-source/day16/quiz-game/readme.md)
