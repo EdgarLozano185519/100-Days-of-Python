@@ -60,3 +60,5 @@ Today I worked on a fun virtual coffee machine. It was pretty fun getting to see
 Today, I did the exact same project as yesterday. The only difference is that I used Object Oriented Programming to deliver the awesome coffee to you. [View readme.](projects-source/day15/oop-coffee-machine/readme.md)
 ### R1D16
 Today I wrote a quiz game in Python. I used OOP concepts to design a question class, and a quizzer class. [View readme.](projects-source/day16/quiz-game/readme.md)
+### R1D17
+Today I experimented with Turtle graphics, a library as part of the Python library. It was fun getting to try to draw things on the screen using a turtle. The main project was a Hurst Paiting sort of project in which dots are drawn on the screen with varying colors and patterns. [View readme.](projects-source/day17/hurst-painting/readme.md)
