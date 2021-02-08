@@ -62,3 +62,9 @@ Today, I did the exact same project as yesterday. The only difference is that I 
 Today I wrote a quiz game in Python. I used OOP concepts to design a question class, and a quizzer class. [View readme.](projects-source/day16/quiz-game/readme.md)
 ### R1D17
 Today I experimented with Turtle graphics, a library as part of the Python library. It was fun getting to try to draw things on the screen using a turtle. The main project was a Hurst Paiting sort of project in which dots are drawn on the screen with varying colors and patterns. [View readme.](projects-source/day17/hurst-painting/readme.md)
+### R1D18
+OK. I have to admit, today was kind of an easier day. I didn't exactly do full project coding, but I spent a lot of time learning about packages, modules, and libraries. I created a package containing a speech library to speak things, which might be useful to some users.
+
+I made use of a library known as Tolk, which has screen reader capabilities.
+
+I also worked on a sample turtle graphics program that moves a turtle forward, making use of the turtle graphics and the screen reader library.
