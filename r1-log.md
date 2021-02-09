@@ -68,3 +68,5 @@ OK. I have to admit, today was kind of an easier day. I didn't exactly do full p
 I made use of a library known as Tolk, which has screen reader capabilities.
 
 I also worked on a sample turtle graphics program that moves a turtle forward, making use of the turtle graphics and the screen reader library.
+### R1D19
+I wrote a etch-a-sketch application today using turtle graphics! It just draws on the screen using a  cool turtle figure. It was a fun project! [View readme.](projects-source/day19/etch-a-sketch/readme.md)
