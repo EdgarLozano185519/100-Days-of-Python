@@ -1,0 +1,2 @@
+### What Is It?
+This is part 1 of my Snake game project. So far, you can't do much, but you can watch a snake-thing move around the screen and press the arrow keys to turn the snake. Up to face north, right to face east, left to face west, and down to face south.

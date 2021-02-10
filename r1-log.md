@@ -70,3 +70,7 @@ I made use of a library known as Tolk, which has screen reader capabilities.
 I also worked on a sample turtle graphics program that moves a turtle forward, making use of the turtle graphics and the screen reader library.
 ### R1D19
 I wrote a etch-a-sketch application today using turtle graphics! It just draws on the screen using a  cool turtle figure. It was a fun project! [View readme.](projects-source/day19/etch-a-sketch/readme.md)
+### R1D20
+The first project I worked on today was a turtle racing game. Launch the application, type the color you think is going to win, and press the r key on the keyboard to watch the race and see if your bet was correct.
+
+The second project is part 1 of a snake game project. [View readme.](projects-source/day20/snake-game-part-1/readme.md)
