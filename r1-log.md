@@ -74,3 +74,5 @@ I wrote a etch-a-sketch application today using turtle graphics! It just draws o
 The first project I worked on today was a turtle racing game. Launch the application, type the color you think is going to win, and press the r key on the keyboard to watch the race and see if your bet was correct.
 
 The second project is part 1 of a snake game project. [View readme.](projects-source/day20/snake-game-part-1/readme.md)
+### R1D21
+Today I finished coding the snake project. This was a great opportunity to learn about object-oriented programming. [View readme.](projects-source/day21/snake-game-part-2/readme.md)

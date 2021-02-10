@@ -1,0 +1,2 @@
+### What Is It?
+This was a fun project! It was an ultimate challenge. It is a Snake Game in which you are a snake, slithering around on the board gathering food, growing in size, and trying to avoid tangling yourself or hitting walls. Running the program will instantly start the game. The arrow keys can be used to turn, and simple screen reader support is even added.
