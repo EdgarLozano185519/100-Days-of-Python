@@ -1,0 +1,2 @@
+### What Is It?
+I made a Pong game! The aim is to get more points than the other player by continuously trying to hit the ball. If you miss the ball, the other player gets a point and vice versa. This was done using the Turtle Graphics library in Python.

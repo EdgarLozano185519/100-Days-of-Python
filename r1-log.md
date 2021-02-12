@@ -76,3 +76,5 @@ The first project I worked on today was a turtle racing game. Launch the applica
 The second project is part 1 of a snake game project. [View readme.](projects-source/day20/snake-game-part-1/readme.md)
 ### R1D21
 Today I finished coding the snake project. This was a great opportunity to learn about object-oriented programming. [View readme.](projects-source/day21/snake-game-part-2/readme.md)
+### R1D22
+Today's program is a pong game! This was good practice with everything from loops, functions, classes, objects, and graphics module. [View readme.](projects-source/day22/pong/readme.md)
