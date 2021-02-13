@@ -13,11 +13,11 @@ class ScoreBoard(Turtle):
     self.goto(-100, 200)
     self.clear()
     self.l_score += 1
-    self.write(str(self.l_score), align="center", font=("Carrier", 80, "normal"))
+    self.write(str(self.l_score), align="center", font=("Courier", 80, "normal"))
   
   def update_right(self):
     self.goto(100, 200)
     self.clear()
     self.r_score += 1
-    self.write(str(self.r_score), align="center", font=("Carrier", 80, "normal"))
+    self.write(str(self.r_score), align="center", font=("Courier", 80, "normal"))
   

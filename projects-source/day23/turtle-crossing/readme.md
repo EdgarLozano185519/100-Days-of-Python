@@ -1,0 +1,2 @@
+### What Is It?
+This is a fun little game where you, the player, will have to cross a road without getting squashed. Everytime you make it all the way across, you get a point. But be ware, cars will tend to speed up as you get further along in the game. The key to use is the up arrow to move forward.

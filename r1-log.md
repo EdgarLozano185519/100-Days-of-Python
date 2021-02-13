@@ -78,3 +78,5 @@ The second project is part 1 of a snake game project. [View readme.](projects-so
 Today I finished coding the snake project. This was a great opportunity to learn about object-oriented programming. [View readme.](projects-source/day21/snake-game-part-2/readme.md)
 ### R1D22
 Today's program is a pong game! This was good practice with everything from loops, functions, classes, objects, and graphics module. [View readme.](projects-source/day22/pong/readme.md)
+### R1D23
+I wrote a fun game where a player has to try to make it across a road without getting run over by cars. [View readme.](projects-source/day23/turtle-crossing/readme.md)
