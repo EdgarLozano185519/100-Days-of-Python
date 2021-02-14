@@ -80,3 +80,11 @@ Today I finished coding the snake project. This was a great opportunity to learn
 Today's program is a pong game! This was good practice with everything from loops, functions, classes, objects, and graphics module. [View readme.](projects-source/day22/pong/readme.md)
 ### R1D23
 I wrote a fun game where a player has to try to make it across a road without getting run over by cars. [View readme.](projects-source/day23/turtle-crossing/readme.md)
+### R1D24
+I did a number of things today.
+
+The first is that I added a high score system to the snake game. High scores should now carry over from game to game, if you exit the program and run it again.
+
+The second thing is not really anything. It is just a practice with files.
+
+The last thing I worked on today was a sort of sample mail merger program. [View readme.](projects-source/day24/mail-merge-project/readme.md)
