@@ -88,3 +88,7 @@ The first is that I added a high score system to the snake game. High scores sho
 The second thing is not really anything. It is just a practice with files.
 
 The last thing I worked on today was a sort of sample mail merger program. [View readme.](projects-source/day24/mail-merge-project/readme.md)
+### R1D25
+Today was kind of slow for me. The main thing I did was to experiment with Pandas to get familiar with common methods.
+
+A small project I wrote was a squirrel aggregating program that gathers how many of each color exists from a dataset provided. It then wrote the results back to a CSV file.
