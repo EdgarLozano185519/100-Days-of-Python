@@ -92,3 +92,7 @@ The last thing I worked on today was a sort of sample mail merger program. [View
 Today was kind of slow for me. The main thing I did was to experiment with Pandas to get familiar with common methods.
 
 A small project I wrote was a squirrel aggregating program that gathers how many of each color exists from a dataset provided. It then wrote the results back to a CSV file.
+### R1D26
+Today I wrote a game where the aim is to guess all 50 states in the US. It's kind of fun. It will then generate a file of states you missed.
+
+I also wrote a program that will give a list of phonetic codes for a word you, the user, enters. For example, "edgar" would give something like "echo delta golf alpha romeo"
