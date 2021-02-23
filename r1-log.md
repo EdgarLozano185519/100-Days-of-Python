@@ -96,3 +96,7 @@ A small project I wrote was a squirrel aggregating program that gathers how many
 Today I wrote a game where the aim is to guess all 50 states in the US. It's kind of fun. It will then generate a file of states you missed.
 
 I also wrote a program that will give a list of phonetic codes for a word you, the user, enters. For example, "edgar" would give something like "echo delta golf alpha romeo"
+### R1D27
+It has been a week since I have been able to program. Power and water went out last week, so I am just now getting back to it.
+
+Today I started learning about TKInter in Python. I wrote a simple mile to km converter. [View readme.](projects-source/day27/mile-to-km/readme.md)

@@ -1,6 +1,9 @@
-from speech import s
+#from speech import s
+import accessible_output2.outputs.auto
 import turtle
 import pandas
+
+s = accessible_output2.outputs.auto.Auto()
 
 def speak_incorrect():
   num_incorrect = len(incorrect)
