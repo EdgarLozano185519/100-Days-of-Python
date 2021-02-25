@@ -100,3 +100,7 @@ I also wrote a program that will give a list of phonetic codes for a word you, t
 It has been a week since I have been able to program. Power and water went out last week, so I am just now getting back to it.
 
 Today I started learning about TKInter in Python. I wrote a simple mile to km converter. [View readme.](projects-source/day27/mile-to-km/readme.md)
+### R1D28
+I wrote a Pomodoro GUI application. The program is designed to increase productivity. It has two simple buttons, a start and reset button. These buttons control timers that can be used to keep track of work and break periods for you, the user.
+
+The common work flow for a pomodoro application is using 25 minutes for uninterrupted work, 5 minutes for a short break, and after 4 "pomodoros," you may take a long break of 20 minutes.
