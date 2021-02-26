@@ -104,3 +104,5 @@ Today I started learning about TKInter in Python. I wrote a simple mile to km co
 I wrote a Pomodoro GUI application. The program is designed to increase productivity. It has two simple buttons, a start and reset button. These buttons control timers that can be used to keep track of work and break periods for you, the user.
 
 The common work flow for a pomodoro application is using 25 minutes for uninterrupted work, 5 minutes for a short break, and after 4 "pomodoros," you may take a long break of 20 minutes.
+### R1D29
+Today I wrote a Password Manager. It's a GUI with inputs and buttons. At the moment, it will generate passwords and save entries to a file. The passwords are not hidden, so I recommend not using this for super security-based applications.
