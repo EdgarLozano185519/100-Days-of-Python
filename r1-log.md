@@ -106,3 +106,9 @@ I wrote a Pomodoro GUI application. The program is designed to increase producti
 The common work flow for a pomodoro application is using 25 minutes for uninterrupted work, 5 minutes for a short break, and after 4 "pomodoros," you may take a long break of 20 minutes.
 ### R1D29
 Today I wrote a Password Manager. It's a GUI with inputs and buttons. At the moment, it will generate passwords and save entries to a file. The passwords are not hidden, so I recommend not using this for super security-based applications.
+### R1D30
+Today I learned about errors and handling them with exceptions.
+
+I began with adding some exception handling to my old Nato Alphabet project. It now handles input that might not be correct.
+
+I also added another feature to the project I did yesterday, the Password Manager. It now searches for websites you might have saved. And it is now using json data.
