@@ -112,3 +112,11 @@ Today I learned about errors and handling them with exceptions.
 I began with adding some exception handling to my old Nato Alphabet project. It now handles input that might not be correct.
 
 I also added another feature to the project I did yesterday, the Password Manager. It now searches for websites you might have saved. And it is now using json data.
+### R1D31
+Today was kind of a lazy day.
+
+I wrote code to render UI for a flash card program. The rest will be done on day 32. Also tomorrow, I am planning to take on another project to make up for today.
+### R1D32
+I know, I know. I'm falling behind! But I am trying my best.
+
+Today I finished my day 31 project, which is a simple flash card program. It works on a timer. See if you know some of the french words. If you do, the words will not come up again.
