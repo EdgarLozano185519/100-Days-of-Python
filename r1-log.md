@@ -120,3 +120,13 @@ I wrote code to render UI for a flash card program. The rest will be done on day
 I know, I know. I'm falling behind! But I am trying my best.
 
 Today I finished my day 31 project, which is a simple flash card program. It works on a timer. See if you know some of the french words. If you do, the words will not come up again.
+### R1D33
+Today I wrote two programs. First I wrote a program to send motivational quotes (can be adjusted to send any one day of the week).
+
+I also wrote a program that sends someone a birthday wish. It uses CSV file to keep track of people.
+### R1D34
+I worked on two little programs today.
+
+The first was a simple funny Kanye quotes app. See what Kanye West has to say.
+
+The second is a bit more serious and cool. It sends an email when the ISS, International Space Station, is right above your location. It uses latitude and longitude to determine your location. Location is not automatically detected, but if you can manage to get your coordinates, they can be filled in as constants, and you can be informed when the ISS is near!
