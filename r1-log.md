@@ -132,3 +132,7 @@ The first was a simple funny Kanye quotes app. See what Kanye West has to say.
 The second is a bit more serious and cool. It sends an email when the ISS, International Space Station, is right above your location. It uses latitude and longitude to determine your location. Location is not automatically detected, but if you can manage to get your coordinates, they can be filled in as constants, and you can be informed when the ISS is near!
 ### R1D35
 Today I worked on a GUI version of the quiz application. It is 95 percent complete. [View readme.](projects-source/day35/quizzler-app/readme.md)
+### R1D36
+Today I was very productive. I learned about authenticating to apps, if authentication is needed, using API keys and other information.
+
+That lead me to create a rain alert app. When ran, the application will check a weather api, and notify you if you need an umbrella via text message. It's a simple app, but I'm glad this gives me an opportunity to learn about APIs.
