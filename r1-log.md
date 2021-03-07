@@ -135,4 +135,6 @@ Today I worked on a GUI version of the quiz application. It is 95 percent comple
 ### R1D36
 Today I was very productive. I learned about authenticating to apps, if authentication is needed, using API keys and other information.
 
-That lead me to create a rain alert app. When ran, the application will check a weather api, and notify you if you need an umbrella via text message. It's a simple app, but I'm glad this gives me an opportunity to learn about APIs.
+That lead me to create a umbrella alert app. When ran, the application will check a weather api, and notify you if you need an umbrella via text message. It's a simple app, but I'm glad this gives me an opportunity to learn about APIs.
+### R1D37
+Today I wrote a cool app to track stock for Tesla from last two days. [View readme.](projects-source/day37/stock-news/readme.md)
