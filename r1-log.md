@@ -138,3 +138,7 @@ Today I was very productive. I learned about authenticating to apps, if authenti
 That lead me to create a umbrella alert app. When ran, the application will check a weather api, and notify you if you need an umbrella via text message. It's a simple app, but I'm glad this gives me an opportunity to learn about APIs.
 ### R1D37
 Today I wrote a cool app to track stock for Tesla from last two days. [View readme.](projects-source/day37/stock-news/readme.md)
+### R1D38
+Most of what I did today was to learn about sending requests. I learned about post, delete, put, and basic get requests. The API I learned from is Pixela, an app which allows someone to track an activity.
+
+I learned to create a user, create a graph, and create an entry for the activity. Also, deleting an entry is learned. This program could be extened beyond what I did here, but that's what I did today. Very productive!
