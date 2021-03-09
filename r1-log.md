@@ -142,3 +142,5 @@ Today I wrote a cool app to track stock for Tesla from last two days. [View read
 Most of what I did today was to learn about sending requests. I learned about post, delete, put, and basic get requests. The API I learned from is Pixela, an app which allows someone to track an activity.
 
 I learned to create a user, create a graph, and create an entry for the activity. Also, deleting an entry is learned. This program could be extened beyond what I did here, but that's what I did today. Very productive!
+### R1D39
+I wrote an exercise tracking app. You basically type in a plain English sentence which describes what exercise activity you performed, and the program will send that to a Google Sheet. It is more API practice.
