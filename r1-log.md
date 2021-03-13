@@ -144,3 +144,11 @@ Most of what I did today was to learn about sending requests. I learned about po
 I learned to create a user, create a graph, and create an entry for the activity. Also, deleting an entry is learned. This program could be extened beyond what I did here, but that's what I did today. Very productive!
 ### R1D39
 I wrote an exercise tracking app. You basically type in a plain English sentence which describes what exercise activity you performed, and the program will send that to a Google Sheet. It is more API practice.
+### R1D40
+I was away yestertday with some bladder thing, which was supposed to be real day 40. But I'm getting better. Today I started a flight finder project.
+
+The flight finder project is in multiple complex parts. It is divided into classes. Today I worked on writing iata codes to a Google Sheet.
+
+Tomorrow should be spent finishing it up with text messages and such.
+### R1D41
+Today I finished the major functionality of the Flight Deals application. It should send an SMS message if it finds cheaper prices than those listed in a Google sheet departing from London.
