@@ -152,3 +152,7 @@ The flight finder project is in multiple complex parts. It is divided into class
 Tomorrow should be spent finishing it up with text messages and such.
 ### R1D41
 Today I finished the major functionality of the Flight Deals application. It should send an SMS message if it finds cheaper prices than those listed in a Google sheet departing from London.
+### R1D42
+Today I added some functionality to our flight deals program. Users can now sign up with their email addresses, and if the flight program finds any good deals, it will send them to the users.
+
+At the moment, it only works when flying from London. It could be expanded to work from any other city.
