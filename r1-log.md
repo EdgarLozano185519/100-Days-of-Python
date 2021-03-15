@@ -156,3 +156,7 @@ Today I finished the major functionality of the Flight Deals application. It sho
 Today I added some functionality to our flight deals program. Users can now sign up with their email addresses, and if the flight program finds any good deals, it will send them to the users.
 
 At the moment, it only works when flying from London. It could be expanded to work from any other city.
+### R1D43
+Today was a busy day! The first project I worked on was a movie scraper. I essentially grabbed 100 of the best movies to watch from a website and practiced my web scraping abilities. [View readme.](projects-source/day43/movie-scraper/readme.md)
+
+I also worked on a playlist creator. It is kind of cool. It asks the user what date in the past from when they want to view songs, and a Spotify playlist is generated for them.
