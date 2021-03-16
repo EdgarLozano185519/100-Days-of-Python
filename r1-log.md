@@ -160,3 +160,7 @@ At the moment, it only works when flying from London. It could be expanded to wo
 Today was a busy day! The first project I worked on was a movie scraper. I essentially grabbed 100 of the best movies to watch from a website and practiced my web scraping abilities. [View readme.](projects-source/day43/movie-scraper/readme.md)
 
 I also worked on a playlist creator. It is kind of cool. It asks the user what date in the past from when they want to view songs, and a Spotify playlist is generated for them.
+### R1D44
+Today I worked on more web scraping. I worked on an application to send an email if the price of an item, a random item, has a price lower than $1500.
+
+This could potentially be used for practically any item and price threshold. But for this purpose, I used a random gaming computer.

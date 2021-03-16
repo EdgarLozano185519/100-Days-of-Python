@@ -32,14 +32,15 @@ print("Making list of songs on requested date.\n")
 for song in song_elements:
   rank = song.find('span', class_='chart-element__rank__number').get_text()
   song_title = song.find('span', class_='chart-element__information__song').get_text()
-  results = sp.search(f"track:{song_title}")
+  artist = song.find('span', class_='chart-element__information__artist').get_text()
+  song_str = f"{rank} {song_title} {artist}"
+  if len(artist.split(' ')) > 0: artist = artist.split(' ')[0]
+  results = sp.search(q=f"{song_title} {artist}", type="track,artist")
   try:
     uri = results["tracks"]["items"][0]["uri"]
     song_uris.append(uri)
   except IndexError:
     print(f"Could not find {song_title} in Spotify. Skipping for now.")
-  artist = song.find('span', class_='chart-element__information__artist').get_text()
-  song_str = f"{rank} {song_title} {artist}"
   #print(song_str)
   track_list.append(song_str)
 
