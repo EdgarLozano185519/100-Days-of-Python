@@ -164,3 +164,9 @@ I also worked on a playlist creator. It is kind of cool. It asks the user what d
 Today I worked on more web scraping. I worked on an application to send an email if the price of an item, a random item, has a price lower than $1500.
 
 This could potentially be used for practically any item and price threshold. But for this purpose, I used a random gaming computer.
+### R1D45
+Today I worked on two simple projects. Both are designed to practice using the Selenium library.
+
+The first project is a simple program to tell you how many articles are on Wikipedia.
+
+The second project is a simple Cookie Clicker player. It will click cookie generator for you indefinitely.
