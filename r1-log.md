@@ -170,3 +170,9 @@ Today I worked on two simple projects. Both are designed to practice using the S
 The first project is a simple program to tell you how many articles are on Wikipedia.
 
 The second project is a simple Cookie Clicker player. It will click cookie generator for you indefinitely.
+### R1D46
+Today I worked on an application to scrape LinkedIn using Selenium. This was an exercise to automate job search.
+
+I didn't really want to apply for jobs at the moment, so the purpose of this program was just to find potential companies at which I could apply in the future. I generated a search filter for Python Developer jobs.
+
+All one needs to do is enter their credentials into the appropriate constants in the Python file, and watch the program look for a few companies that might offer Python jobs. You could potentially use other search filters, provided they are generated on the LinkedIn website first. This shows much potential for automation. And I could certainly extend it to auto-apply to jobs for me.
