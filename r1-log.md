@@ -176,3 +176,9 @@ Today I worked on an application to scrape LinkedIn using Selenium. This was an 
 I didn't really want to apply for jobs at the moment, so the purpose of this program was just to find potential companies at which I could apply in the future. I generated a search filter for Python Developer jobs.
 
 All one needs to do is enter their credentials into the appropriate constants in the Python file, and watch the program look for a few companies that might offer Python jobs. You could potentially use other search filters, provided they are generated on the LinkedIn website first. This shows much potential for automation. And I could certainly extend it to auto-apply to jobs for me.
+### R1D47
+Today I worked on an auto Tinder swiper. Well, it actually just automates disliking people. I had some hesitation doing this project, but I wanted to learn more about Selenium.
+
+I am not actually on Tinder, but I created a throwaway account. I don't want to mess with people's feelings after all.
+
+At the moment, a user can log in, and successfully get to the main screen to start liking or disliking users. I almost have the actual disliking functionality down. I can probably finish tomorrow.
