@@ -182,3 +182,5 @@ Today I worked on an auto Tinder swiper. Well, it actually just automates dislik
 I am not actually on Tinder, but I created a throwaway account. I don't want to mess with people's feelings after all.
 
 At the moment, a user can log in, and successfully get to the main screen to start liking or disliking users. I almost have the actual disliking functionality down. I can probably finish tomorrow.
+### R1D48
+Today's project was simple. I wrote a Twitter complaint bot. It complains if my current Internet speed is lower than what my ISP advertises for me. And of course, it is.
