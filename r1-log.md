@@ -184,3 +184,7 @@ I am not actually on Tinder, but I created a throwaway account. I don't want to 
 At the moment, a user can log in, and successfully get to the main screen to start liking or disliking users. I almost have the actual disliking functionality down. I can probably finish tomorrow.
 ### R1D48
 Today's project was simple. I wrote a Twitter complaint bot. It complains if my current Internet speed is lower than what my ISP advertises for me. And of course, it is.
+### R1D49
+Today I wrote an Instagram follwer bot. You give it your account information, and a URL for a user's whose followings you want to follow, and it tries to follow all of those accounts for you.
+
+I'm beginning to really learn more about Selenium.
