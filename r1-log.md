@@ -194,3 +194,7 @@ Today I wrote an automation bot. It first fetches data from a webpage of house l
 The Google form can then be used to make a Google spreadsheet of that data.
 
 This shows both Selenium and Beautiful Soup at work.
+### R1D51
+Today was a simpler day. I learned about decorator functions in Python.
+
+The main exercise was designed to slap on a decorator function that would calculate the time it takes to run each function.
