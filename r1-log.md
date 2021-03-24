@@ -188,3 +188,9 @@ Today's project was simple. I wrote a Twitter complaint bot. It complains if my 
 Today I wrote an Instagram follwer bot. You give it your account information, and a URL for a user's whose followings you want to follow, and it tries to follow all of those accounts for you.
 
 I'm beginning to really learn more about Selenium.
+### R1D50
+Today I wrote an automation bot. It first fetches data from a webpage of house listings. It then aggregates that data and enters it into a Google form.
+
+The Google form can then be used to make a Google spreadsheet of that data.
+
+This shows both Selenium and Beautiful Soup at work.
