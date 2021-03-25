@@ -198,3 +198,7 @@ This shows both Selenium and Beautiful Soup at work.
 Today was a simpler day. I learned about decorator functions in Python.
 
 The main exercise was designed to slap on a decorator function that would calculate the time it takes to run each function.
+### R1D52
+The main program today was a Higher Lower guessing game. This was to primarily practice using Flask.
+
+Essentially, when the program starts, a random number is generated. Then, a user has to guess a number by using URL in the browser in the form "/guess/<number>".
