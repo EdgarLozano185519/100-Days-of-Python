@@ -202,3 +202,5 @@ The main exercise was designed to slap on a decorator function that would calcul
 The main program today was a Higher Lower guessing game. This was to primarily practice using Flask.
 
 Essentially, when the program starts, a random number is generated. Then, a user has to guess a number by using URL in the browser in the form "/guess/<number>".
+### R1D53
+Today I worked on a simple project to learn to serve content using Python and Flask. The content served is a simple HTML page containing a Name Card.
