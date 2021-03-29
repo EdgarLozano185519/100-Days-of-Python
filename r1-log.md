@@ -212,3 +212,7 @@ The first is a simple guesser app. You go to a URL after running the flask app, 
 The second app is a simple blogging application. The application will retrieve certain fake blog data, and populate a page with blog entry and "Read" links to click on. The links take you to a page with the full text for that blog.
 ### R1D55
 Today's program is a remastered version of the blog I did yesterday. In today's blog site, I added a header and footer pages that can be included in nearly all pages to generate consistent pages. It also uses Bootstrap, a popular styling library.
+### R1D56
+Today I updated the contact form from yesterday's blog. Now, it actually does send an email when the form is submitted. How fun!
+
+I also zipped up both today's and yesterday's project to conserve some space.
