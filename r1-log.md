@@ -204,9 +204,11 @@ The main program today was a Higher Lower guessing game. This was to primarily p
 Essentially, when the program starts, a random number is generated. Then, a user has to guess a number by using URL in the browser in the form "/guess/<number>".
 ### R1D53
 Today I worked on a simple project to learn to serve content using Python and Flask. The content served is a simple HTML page containing a Name Card.
-### R1D53
+### R1D54
 Today I worked on two little projects.
 
 The first is a simple guesser app. You go to a URL after running the flask app, and you supply it a name. Using a couple of really simple APIs, it will guess that person's gender and age. How fun!
 
 The second app is a simple blogging application. The application will retrieve certain fake blog data, and populate a page with blog entry and "Read" links to click on. The links take you to a page with the full text for that blog.
+### R1D55
+Today's program is a remastered version of the blog I did yesterday. In today's blog site, I added a header and footer pages that can be included in nearly all pages to generate consistent pages. It also uses Bootstrap, a popular styling library.
