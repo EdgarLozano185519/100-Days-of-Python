@@ -216,3 +216,5 @@ Today's program is a remastered version of the blog I did yesterday. In today's 
 Today I updated the contact form from yesterday's blog. Now, it actually does send an email when the form is submitted. How fun!
 
 I also zipped up both today's and yesterday's project to conserve some space.
+### R1D57
+Today I wrote a simple application that experiments with WT Forms and Flask. I created a simple Login form with two fields and validation takes place on submit.
