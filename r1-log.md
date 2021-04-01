@@ -218,3 +218,7 @@ Today I updated the contact form from yesterday's blog. Now, it actually does se
 I also zipped up both today's and yesterday's project to conserve some space.
 ### R1D57
 Today I wrote a simple application that experiments with WT Forms and Flask. I created a simple Login form with two fields and validation takes place on submit.
+### R1D58
+Today I worked on a simple application that uses a CSV file as a simple database. One of the pages in the app will render all the entries in the CSV file as a table. Another route will allow you to add an entry via a form.
+
+Happy cafe search!
