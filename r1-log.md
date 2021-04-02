@@ -222,3 +222,5 @@ Today I wrote a simple application that experiments with WT Forms and Flask. I c
 Today I worked on a simple application that uses a CSV file as a simple database. One of the pages in the app will render all the entries in the CSV file as a table. Another route will allow you to add an entry via a form.
 
 Happy cafe search!
+### R1D59
+Today I wrote a simple book shelf website to practice CRUD operations with Flask and SQL Alchemy. You can add, view, update rating, and delete books from the bookshelf.
