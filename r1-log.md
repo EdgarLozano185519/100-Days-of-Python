@@ -224,3 +224,9 @@ Today I worked on a simple application that uses a CSV file as a simple database
 Happy cafe search!
 ### R1D59
 Today I wrote a simple book shelf website to practice CRUD operations with Flask and SQL Alchemy. You can add, view, update rating, and delete books from the bookshelf.
+### R1D60
+Today I worked on a Flask application to display top movies. It's an application to practice CRUD operations using Flask, WTForms, and Bootstrap.
+### R1D61
+Sorry, but I was away for the weekend, so didn't really work on anything for a couple days. Sorry, not sorry! :)
+
+Today I finished up the CRUD application for my top 10 movies. I can add movies and query the movie database to update my local database with information. I can also update reviews and ratings, and delete a movie from my list if I want.
