@@ -230,3 +230,5 @@ Today I worked on a Flask application to display top movies. It's an application
 Sorry, but I was away for the weekend, so didn't really work on anything for a couple days. Sorry, not sorry! :)
 
 Today I finished up the CRUD application for my top 10 movies. I can add movies and query the movie database to update my local database with information. I can also update reviews and ratings, and delete a movie from my list if I want.
+
+I also started work on another project to learn about making an API with Flask. At the moment, it's a simple Cafe API. Someone compiled a list of good cafes in the UK, and I'm returning it as JSON data using Flask. I'll finish the rest tomorrow as today I only made /all and /random endpoints.
