@@ -234,3 +234,5 @@ Today I finished up the CRUD application for my top 10 movies. I can add movies 
 I also started work on another project to learn about making an API with Flask. At the moment, it's a simple Cafe API. Someone compiled a list of good cafes in the UK, and I'm returning it as JSON data using Flask. I'll finish the rest tomorrow as today I only made /all and /random endpoints.
 ### R1D62
 Today I finished my RESTFul API for cafes. This is to practice writing these with Flask and Python. You can add a cafe via POST method, delete a cafe with DELETE method, update a cafe with PATCH method, and of course, retrieve cafes with get requests to a few endpoints.
+### R1D63
+Today I added actual CRUD functionality to the blog project I worked on a few projects back. I can add, edit, delete, and retrieve posts as needed. Project has been zipped to minimize space.
