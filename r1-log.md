@@ -236,3 +236,5 @@ I also started work on another project to learn about making an API with Flask. 
 Today I finished my RESTFul API for cafes. This is to practice writing these with Flask and Python. You can add a cafe via POST method, delete a cafe with DELETE method, update a cafe with PATCH method, and of course, retrieve cafes with get requests to a few endpoints.
 ### R1D63
 Today I added actual CRUD functionality to the blog project I worked on a few projects back. I can add, edit, delete, and retrieve posts as needed. Project has been zipped to minimize space.
+### R1D64
+I practiced adding login functionality to a Flask application. It is a simple application, but I did learn how to use Flask Login library in conjunction with Flask and other libraries I've been using.
