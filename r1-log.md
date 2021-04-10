@@ -238,3 +238,5 @@ Today I finished my RESTFul API for cafes. This is to practice writing these wit
 Today I added actual CRUD functionality to the blog project I worked on a few projects back. I can add, edit, delete, and retrieve posts as needed. Project has been zipped to minimize space.
 ### R1D64
 I practiced adding login functionality to a Flask application. It is a simple application, but I did learn how to use Flask Login library in conjunction with Flask and other libraries I've been using.
+### R1D65
+OK! Today was a tough lesson but I'm glad I went through it. Today I put the finishing touches on a blog project I've been working on. The full blog project now allows people to register, login, comment, and past functionality of course, which includes creating, editing, deleting, and retrieving posts. This is pretty much a full blog solution, bar for the styling and other front end issues. but this was a great exercise in learning about Flask libraries.
