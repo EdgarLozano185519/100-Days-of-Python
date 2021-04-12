@@ -242,3 +242,7 @@ I practiced adding login functionality to a Flask application. It is a simple ap
 OK! Today was a tough lesson but I'm glad I went through it. Today I put the finishing touches on a blog project I've been working on. The full blog project now allows people to register, login, comment, and past functionality of course, which includes creating, editing, deleting, and retrieving posts. This is pretty much a full blog solution, bar for the styling and other front end issues. but this was a great exercise in learning about Flask libraries.
 ### R1D66
 No actual coding today. But I did learn how to deploy an application to Heroku. This would be considered production mode I guess? Anyway, I got a lot out of it.
+### R1D67
+Today I started to explore Jupyter Notebooks. I learned about cells and how code runs and I started to manipulate some college major data in a CSV file.
+
+Tomorrow I will probably finish the work with that.
