@@ -246,3 +246,9 @@ No actual coding today. But I did learn how to deploy an application to Heroku. 
 Today I started to explore Jupyter Notebooks. I learned about cells and how code runs and I started to manipulate some college major data in a CSV file.
 
 Tomorrow I will probably finish the work with that.
+### R1D68
+Today I finished the challenges for exploring Python data in a Jupyter notebook.
+
+I learned how to get certain information out of data frames and add stuff to them as well.
+
+I also started a new challenge with another Jupyter notebook about programming language data. Tomorrow I am going to learn to plot data for visualizations.
