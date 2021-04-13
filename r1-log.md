@@ -252,3 +252,7 @@ Today I finished the challenges for exploring Python data in a Jupyter notebook.
 I learned how to get certain information out of data frames and add stuff to them as well.
 
 I also started a new challenge with another Jupyter notebook about programming language data. Tomorrow I am going to learn to plot data for visualizations.
+### R1D69
+Today I finished analyzing programming languages data. I learned a bit about MatPlotLib, although, I'd be lying if I said it interested me. But I'll see how much more I can do before I skip Data Science for now.
+
+I also decided to write a program to convert strings entered by a user into Morse Code. I didn't make the program too comprehensive, but dots (.) and dashes (-) are used and letters are separated by a space character. Multiple spaces indicate word separation.
