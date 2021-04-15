@@ -256,3 +256,5 @@ I also started a new challenge with another Jupyter notebook about programming l
 Today I finished analyzing programming languages data. I learned a bit about MatPlotLib, although, I'd be lying if I said it interested me. But I'll see how much more I can do before I skip Data Science for now.
 
 I also decided to write a program to convert strings entered by a user into Morse Code. I didn't make the program too comprehensive, but dots (.) and dashes (-) are used and letters are separated by a space character. Multiple spaces indicate word separation.
+### R1D70
+Today I deviated from my plan of projects a bit. But I worked on a Tic-Tac-Toe app. It was fun to code. It is a text-based application, and "X" and "O" characters are used.
