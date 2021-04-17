@@ -262,3 +262,5 @@ Today I deviated from my plan of projects a bit. But I worked on a Tic-Tac-Toe a
 Ok I took a break yesterday. Sue me!
 
 Anyway, today I worked on analyzing some information about Lego data. The lego data was collected in CSV files, and I used Pandas to analyze it in a Jupyter notebook.
+### R1D72
+Today I explored some Google trends data. Same as last few days, I explored the CSV data for various CSV files, explored it, and plotted it using MatPlotLib.
