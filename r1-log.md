@@ -258,3 +258,7 @@ Today I finished analyzing programming languages data. I learned a bit about Mat
 I also decided to write a program to convert strings entered by a user into Morse Code. I didn't make the program too comprehensive, but dots (.) and dashes (-) are used and letters are separated by a space character. Multiple spaces indicate word separation.
 ### R1D70
 Today I deviated from my plan of projects a bit. But I worked on a Tic-Tac-Toe app. It was fun to code. It is a text-based application, and "X" and "O" characters are used.
+### R1D71
+Ok I took a break yesterday. Sue me!
+
+Anyway, today I worked on analyzing some information about Lego data. The lego data was collected in CSV files, and I used Pandas to analyze it in a Jupyter notebook.
