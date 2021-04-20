@@ -266,3 +266,5 @@ Anyway, today I worked on analyzing some information about Lego data. The lego d
 Today I explored some Google trends data. Same as last few days, I explored the CSV data for various CSV files, explored it, and plotted it using MatPlotLib.
 ### R1D73
 Today I worked on exploring Google Play Store data. I learned about deleting duplicate rows, dropping NaN rows from a frame, and generating visualizations from the data.
+### R1D74
+Today I learned about NumPy. This is a really neat library. I was able to learn how NumPy interprets images as arrays, how to manipulate arrays, how to learn information about these n-dimentional arrays, and how to use MatPlotLib to display these arrays as images.
