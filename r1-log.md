@@ -268,3 +268,5 @@ Today I explored some Google trends data. Same as last few days, I explored the 
 Today I worked on exploring Google Play Store data. I learned about deleting duplicate rows, dropping NaN rows from a frame, and generating visualizations from the data.
 ### R1D74
 Today I learned about NumPy. This is a really neat library. I was able to learn how NumPy interprets images as arrays, how to manipulate arrays, how to learn information about these n-dimentional arrays, and how to use MatPlotLib to display these arrays as images.
+### R1D75
+Today I analyzed data for movie sales. I also learned about Seaborn to generate scatterplots and bubble charts. I will be gone for a few days, but I am picking up from here next time.
