@@ -270,3 +270,7 @@ Today I worked on exploring Google Play Store data. I learned about deleting dup
 Today I learned about NumPy. This is a really neat library. I was able to learn how NumPy interprets images as arrays, how to manipulate arrays, how to learn information about these n-dimentional arrays, and how to use MatPlotLib to display these arrays as images.
 ### R1D75
 Today I analyzed data for movie sales. I also learned about Seaborn to generate scatterplots and bubble charts. I will be gone for a few days, but I am picking up from here next time.
+### R1D76
+Today I spent more time learning about the Create-React-App world. Not much Python today. Sorry. But I got married, so that's a great thing!
+### R1D77
+Today I wrote a program to watermark an image. It's a GUI that gives you an option to type text to be used as the watermark text, and it adds it to an image. It was a good refresher on Tkinter.
