@@ -274,3 +274,5 @@ Today I analyzed data for movie sales. I also learned about Seaborn to generate 
 Today I spent more time learning about the Create-React-App world. Not much Python today. Sorry. But I got married, so that's a great thing!
 ### R1D77
 Today I wrote a program to watermark an image. It's a GUI that gives you an option to type text to be used as the watermark text, and it adds it to an image. It was a good refresher on Tkinter.
+### R1D78
+Today I worked on a Django application. It is a polls application with questions and choices. This is a sample application to learn about how to develop a Django application using models, views, and templates. Today I added a few URLs that take a variable and returns appropriate question.
