@@ -278,3 +278,5 @@ Today I wrote a program to watermark an image. It's a GUI that gives you an opti
 Today I worked on a Django application. It is a polls application with questions and choices. This is a sample application to learn about how to develop a Django application using models, views, and templates. Today I added a few URLs that take a variable and returns appropriate question.
 ### R1D79
 Today I worked some more on the Django sample Polls application. I added Results and Detail views and learned about the Reverse method in Django. I successfully added some choices to pick from in the question model.
+### R1D80
+Today I finished working on the Polls app of my sample application to learn Django. I added generic views for Detail, Index, and Results views. I also learned how to add tests to my app to ensure functionality works as expected. Due to testing, I corrected the method used to determine if a question was published recently.
