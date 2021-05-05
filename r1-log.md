@@ -280,3 +280,12 @@ Today I worked on a Django application. It is a polls application with questions
 Today I worked some more on the Django sample Polls application. I added Results and Detail views and learned about the Reverse method in Django. I successfully added some choices to pick from in the question model.
 ### R1D80
 Today I finished working on the Polls app of my sample application to learn Django. I added generic views for Detail, Index, and Results views. I also learned how to add tests to my app to ensure functionality works as expected. Due to testing, I corrected the method used to determine if a question was published recently.
+### R1D81
+Today I did not slack off. I was actually looking at the Earwax library, an audio game library to create, well, audio games for visually impaired.
+I created a sample application and started to work on code for a game.
+### R1D82
+Today I worked on a Goal Hitting game. It is purely audio-based, and I wrote some good code to hit a ball. But this time, I used a library called Lucia. Similar concept as Earwax, but with simpler interface. So, I haven't been slacking off, I just haven't been following the project outline I was following before.
+### R1D83
+Today I continued my work on the Goal Hitting game. I started on the first steps to making an AI player. The player is able to return the ball back to me if we're lined up in front of the ball.
+
+But before I could get that working, I made it possible for the goal functionality to work, at least if the player returns the ball to the AI.
