@@ -282,6 +282,7 @@ Today I worked some more on the Django sample Polls application. I added Results
 Today I finished working on the Polls app of my sample application to learn Django. I added generic views for Detail, Index, and Results views. I also learned how to add tests to my app to ensure functionality works as expected. Due to testing, I corrected the method used to determine if a question was published recently.
 ### R1D81
 Today I did not slack off. I was actually looking at the Earwax library, an audio game library to create, well, audio games for visually impaired.
+
 I created a sample application and started to work on code for a game.
 ### R1D82
 Today I worked on a Goal Hitting game. It is purely audio-based, and I wrote some good code to hit a ball. But this time, I used a library called Lucia. Similar concept as Earwax, but with simpler interface. So, I haven't been slacking off, I just haven't been following the project outline I was following before.
@@ -289,3 +290,81 @@ Today I worked on a Goal Hitting game. It is purely audio-based, and I wrote som
 Today I continued my work on the Goal Hitting game. I started on the first steps to making an AI player. The player is able to return the ball back to me if we're lined up in front of the ball.
 
 But before I could get that working, I made it possible for the goal functionality to work, at least if the player returns the ball to the AI.
+### R1D84
+Today I continued to work on my small audio game. Again, it's a small audio version of Pong, but much simpler.
+
+I added functionality to get the goals to be hit propperly on both the player and AI sides. There was a pesky little bug, but I managed to squash it after some time.
+
+The bug had to do with a function in the Player class, and essentially, it was doing a bit too much. So much so, that it was hard to track it down. Oh, and now the ball moves randomly throughout the game board.
+
+Next step is to increase speed based on loop counter. And finally, I need to add it to where the AI moves according to the ball. Almost there with single player mode! I also want to add a little multiplayer mode.
+### R1D85
+Yay! I am almost done with the single player capability of the Goal Hitting game. Today I added AI player capabilities. Now the AI can move (probably too fast), and there is a small scoring system in place. I also added speed increase to the ball if it hasn't hit a goal.
+### R1D86
+Today I worked on adding boilerplate code to a client/server version of the Goal Hitting game. As of now, a server can run, as a Pygame-based window, and wait for a single connection. A screen reader library will let the user know, in text-to-speech, when a connection was made. 
+### R1D87
+Today I worked on the client/server Goal Hitting game. I almost have the connection bit set up, but I'm still getting connection synchronization errors. I'm trying to send information through each loop iteration, from the server, to the client. The client is trying to receive the data, but it hangs somewhere. So I still have to figure that one out. 
+### R1D88
+Today I figured out the networking issue! I'm excited. Essentially, the server and client have to continuously send each other messages to remain in sync. But it seems to work fine now. I may, at later time, have to investigate how to encrypt messages sent over the TCP sockets.
+
+Tomorrow's problem is to figure out how to actually play the game with the networking capabilities. Today, I kind of have the audio sync depending on main player hitting the ball.
+### R1D89
+Yes I know, I've been kind of lazy last couple of days. But today, I started another little project. I know of a library to interact with Fmod, a popular and robust audio library used in low-level programming.
+
+I took quite some time to learn how to connect it to Python and get it working. Now, I have a small program that will demonstrate basic playback, panning, and turning in angles. I know, I keep trying new things. But I do want to finish the Goal Hitting program.
+### R1D90
+I'm all over the place with projects. But today I returned to Django to remind myself of some basic URL and views concepts. I created a basic challenges application to show some stuff related to dynamic views and paths.
+
+I want to start alternating between working on games, and learning about Django. The point here is to get a job using Python, and possibly other programming languages. 
+### R1D91
+OK. Today I officially started my AudioPaintWars project. I was going to do this in C#, but I figured Python is fine. If it turns out that Python isn't the best, then I'll just try writing it in a different language.
+
+Today I wrote some code to initialize Pygame, a screen reader subsystem, and Fmod. These are the libraries I'm deciding to use for this project. I even wrote some code to move the player, but it's not working as expected quite yet. So I'm just testing it for now to understand movement. I'm eventually going to make it its own class.
+### R1D92
+As I said, I am alternating between Django and developing my AudioPaintWars game. For today, I refreshed myself on writing templates with Django.
+
+I learned about the url tag, the for tag, and fixed the index page of the challenges app I started to work from iterating in the view to the template.
+### R1D93
+Today I completed an actual small program. I wrote a script to automate the creation of an HTML list based on the files found in a folder. This is because I'm working on a side project of gathering recordings of Audio Gamers.
+### R1D94
+Today I worked on a cool project. The site I have running for audio game recordings... Well, I wrote a nice script to generate all the files based on files uploaded to AWS S3. It was a hack of sorts, but it does a good job generating all the files needed to deploy to the server.
+### R1D95
+Today I did not goof off. I did some more work for the audio game recordings site. I started working on my game again. I'm still trying to figure out the trig functions and how they will move my character on a 2d grid and update sound accordingly.
+
+The aim is to first implement the tab menu system, which will contain some options the player can pick from.
+### R1D96
+I worked on my AudioPaintWars game some more.
+
+What I did today:
+
+- Wrote the Player class to keep track of player positioning and important player functionality
+- Wrote a TabMenu class to track options as the player presses the tab key. This will be used for some features like summoning robots and reloading paint ball gun.
+
+What I will try to do tomorrow:
+
+- Write code to summon robot when player presses enter key on the option. (ideally, I already have robot sounds from which to pick)
+- If I can, write a robot class to keep track of movement
+
+### R1D97
+I worked on my AudioPaintWars game some more.
+
+What I did today:
+
+- I wrote beginner code to check what happens when player presses the enter key. Right now, this is minimal, but it checks how many points the player has and if the correct tab menu item is focused, then play the robot summoning sound.
+- I wrote start of robot class. It should update position correctly.
+
+What I want to do tomorrow:
+
+- Make a robots_pool class that will contain robot sounds that will update according to player. At least, start off with a sound class that will control all of the game sounds.
+- Create map features. (a map class and ensure player stays in bounds of map. Also create system where different terrains and footsteps are needed depending on location on map)
+
+### R1D98
+I worked on my AudioPaintWars game some more.
+
+What I did today:
+
+- I wrote the map class to keep track of player movement. It also has a facility to internally update and get terrain based on x and y coords
+
+What I plan to do tomorrow:
+
+- I plan to make that sounds class to handle all game sounds internally.
