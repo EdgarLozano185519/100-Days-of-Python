@@ -329,42 +329,14 @@ Today I completed an actual small program. I wrote a script to automate the crea
 ### R1D94
 Today I worked on a cool project. The site I have running for audio game recordings... Well, I wrote a nice script to generate all the files based on files uploaded to AWS S3. It was a hack of sorts, but it does a good job generating all the files needed to deploy to the server.
 ### R1D95
-Today I did not goof off. I did some more work for the audio game recordings site. I started working on my game again. I'm still trying to figure out the trig functions and how they will move my character on a 2d grid and update sound accordingly.
-
-The aim is to first implement the tab menu system, which will contain some options the player can pick from.
+Today I did not goof off. I did some more work for the audio game recordings site.
 ### R1D96
-I worked on my AudioPaintWars game some more.
+OK. It has been a while since I've committed to this 100 Days of Python challenge.
 
-What I did today:
+This is my fault completely. However, I have been working on another project, which is on another repository. And I believe it helps in improving my Python abilities.
 
-- Wrote the Player class to keep track of player positioning and important player functionality
-- Wrote a TabMenu class to track options as the player presses the tab key. This will be used for some features like summoning robots and reloading paint ball gun.
+This project has to be kept private. So I decided not to include my updates for it in this repo.
 
-What I will try to do tomorrow:
+But I took a break from the other project and am now committing to learning about Django development for potential future jobs.
 
-- Write code to summon robot when player presses enter key on the option. (ideally, I already have robot sounds from which to pick)
-- If I can, write a robot class to keep track of movement
-
-### R1D97
-I worked on my AudioPaintWars game some more.
-
-What I did today:
-
-- I wrote beginner code to check what happens when player presses the enter key. Right now, this is minimal, but it checks how many points the player has and if the correct tab menu item is focused, then play the robot summoning sound.
-- I wrote start of robot class. It should update position correctly.
-
-What I want to do tomorrow:
-
-- Make a robots_pool class that will contain robot sounds that will update according to player. At least, start off with a sound class that will control all of the game sounds.
-- Create map features. (a map class and ensure player stays in bounds of map. Also create system where different terrains and footsteps are needed depending on location on map)
-
-### R1D98
-I worked on my AudioPaintWars game some more.
-
-What I did today:
-
-- I wrote the map class to keep track of player movement. It also has a facility to internally update and get terrain based on x and y coords
-
-What I plan to do tomorrow:
-
-- I plan to make that sounds class to handle all game sounds internally.
+Today, I started my journey on making a blog project from scratch with Django. I added a base html template, some dummy views, and am planning to work on this off and on from now on, potentially working up to a big project I have in mind.
