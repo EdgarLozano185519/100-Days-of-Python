@@ -7,6 +7,12 @@
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
+    <header>
+        <h1><a href="{% url "start-page" %}">Edgar's Blog</a></h1>
+            <nav>
+                <a href="{% url "posts" %}">All Posts</a>
+        </nav>
+    </header>
     {% block content %}
     {% endblock %}
 </body>

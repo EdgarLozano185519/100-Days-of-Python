@@ -340,3 +340,7 @@ This project has to be kept private. So I decided not to include my updates for 
 But I took a break from the other project and am now committing to learning about Django development for potential future jobs.
 
 Today, I started my journey on making a blog project from scratch with Django. I added a base html template, some dummy views, and am planning to work on this off and on from now on, potentially working up to a big project I have in mind.
+### R1D97
+I added some logic to render dummy blog entry data on the home page of our project.
+
+I also spent a lot of time fiddling with VSCode settings. Ugh!
