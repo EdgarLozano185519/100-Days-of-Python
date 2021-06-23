@@ -1,0 +1,4 @@
+{% for post in posts %}
+<h2><a href="{% url "details-page" post.slug %}">{{ post.title }}</a></h2>
+<p>{{ post.excerpt }}</p>
+{% endfor %}
