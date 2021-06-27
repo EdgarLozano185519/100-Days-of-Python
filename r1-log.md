@@ -346,3 +346,5 @@ I added some logic to render dummy blog entry data on the home page of our proje
 I also spent a lot of time fiddling with VSCode settings. Ugh!
 ### R1D98
 Today I just added more code to my initial dummy blog. It has dummy data, it renders this dummy data in the index and posts routes of the website, and a single web page to display a single post was created.
+## R1D99
+Today I worked on learning about models in Django. I learned to create model classes and learned how to use the interactive shell to play with the models to add and query content from a database.
