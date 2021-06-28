@@ -335,7 +335,7 @@ OK. It has been a while since I've committed to this 100 Days of Python challeng
 
 This is my fault completely. However, I have been working on another project, which is on another repository. And I believe it helps in improving my Python abilities.
 
-This project has to be kept private. So I decided not to include my updates for it in this repo.
+This new project has to be kept private. So I decided not to include my updates for it in this repo.
 
 But I took a break from the other project and am now committing to learning about Django development for potential future jobs.
 
@@ -348,3 +348,7 @@ I also spent a lot of time fiddling with VSCode settings. Ugh!
 Today I just added more code to my initial dummy blog. It has dummy data, it renders this dummy data in the index and posts routes of the website, and a single web page to display a single post was created.
 ## R1D99
 Today I worked on learning about models in Django. I learned to create model classes and learned how to use the interactive shell to play with the models to add and query content from a database.
+## R1D100
+Wow! Today is officially the 100th day. I will continue to update my learning progress here. But I believe I can say I've learned a lot. I won't be as consistent as before, but I do truly want to continue learning things like Django, and finish the projects officially listed out in the course from which these project ideas were obtained.
+
+Today I worked on adding a bookstore application to the mysite project using Django. I learned more about models and learned how to use the entries in the database using these models and connecting them to the site's views.
